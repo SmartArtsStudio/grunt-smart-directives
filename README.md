@@ -1,2 +1,2 @@
 # grunt-smart-directives
-Fully customisable C preprocessor inspired directives. Create custom directives and add them via customisble tags to source file comments, to 'conditionally' preprocess your source code files targeting multiple environments.
+Use the directives this package provides or create custom directives. Add them via customisble tags to source file comments, to 'conditionally' preprocess your source code files to targeting multiple environments from a single code base. Inspired by C preprocessor directives. 
